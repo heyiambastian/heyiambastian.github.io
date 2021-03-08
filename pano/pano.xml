@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.0.1" apprev="17227" start="node4">
+  <panorama id="node4">
+    <input levelingpitch="0" height="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" overlap="1" levelbias="0.400">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-194" fovmode="0">
+      <start tilt="-30" pan="-170.98" projection="4" fov="80"/>
+      <flyin tilt="-90" pan="0" projection="4" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="-360"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="0" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata source="" comment="" tags="Fotos 360" customnodeid="" longitude="-70.072036" title="Las amarilla Aire" author="" latitude="-33.833483" info="" datetime="27-09-20 12:10" description="" copyright=""/>
+    <hotspots height="0" wordwrap="1" width="230">
+      <label enabled="1" borderradius="1" borderalpha="1" height="0" textcolor="0x000000" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" width="230" bordercolor="0x000000" backgroundalpha="1" border="1" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot skinid="ht_image" id="Point01" url="images/_MG_0400.JPG" tilt="-50.91" title="" pan="-178.04" target="" description="La explicación de una remoción en masa como la que tenemos en el sector de Las Amarillas, en el valle del río Volcán, requiere integrar una serie de factores geológicos bastante diferentes entre sí. Este ejercicio de integración es típico en el análisis de cualquier fenómeno geológico. &#xa;  &#xa;En este caso, podemos reconocer que la remoción en masa se origina en la ancha zona amarillenta-anaranjada que se encuentra en la parte alta del cordón de cerros. Por ese sector pasa la traza de una falla de orientación norte-sur, denominada El Diablo, cuyo nombre se debe al valle que se encuentra detrás este cordón. Este es un valle recto a lo largo del cual se continúa la falla hacia el sur. La zona amarillenta corresponde a una franja donde las rocas se encuentran trituradas y molidas por el cizalle producido con el movimiento ocurrido a lo largo de falla. El considerable ancho de la zona de material triturado y molido puede explicarse a los reiterados movimientos que se han producido a lo largo de esta estructura, que se interpreta como la falla del borde oriental de la cuenca de Abanico. En este contexto la falla habría tenido, en una primera etapa, un desplazamiento como falla normal y, en una segunda etapa, un movimiento de tipo inverso. Estos movimientos habrían facilitado la formación de la cuenca y el cierre o inversión tectónica de la misma, respectivamente. &#xa;  &#xa;Las zonas de falla importantes como ésta corresponden a zonas de debilidad de la corteza y, por ese motivo, pueden ser activadas reiteradamente a lo largo de la evolución geológica, según los esfuerzos a los que esté sometido el margen continental. Como se dijo anteriormente, ésta podría ser la razón de la ancha zona de roca molida que existe a lo largo de esa falla. La presencia de una falla con las características mencionadas puede, además, ejercer un importante control sobre la circulación de fluidos. &#xa;&#xa;Pueden representar, según las características de las rocas a uno y otro lado de la falla y de los materiales triturados en la zona de falla, tanto barreras para la circulación de fluidos como buenos conductos para la circulación de estos. En relación con esto, podemos mencionar que a lo largo de esta falla existen varios lugares donde surgen aguas termales. Esto permite pensar que una de las paredes de la falla dificulta la circulación del agua subterránea y que ésta se acumula contra esa pared y se ve forzada a ascender a niveles más superficiales. En este caso, el ascenso se habría visto facilitado por la alta permeabilidad de las rocas molidas de la zona de falla, es decir, de la roca de falla. Debido al gradiente geotérmico y dependiendo de la profundidad desde donde asciende el agua, ésta puede haberse calentado a altas temperaturas y traer en disolución sustancias que produzcan alteración en las rocas por las cuales circula esta agua, dando lugar a lo que se denomina alteración hidrotermal. En particular, la acción de las soluciones hidrotermales es particularmente efectiva en materiales fracturados y molidos por su alta porosidad. &#xa;  &#xa;Con la acción de estas soluciones los minerales que componen a la roca molida se transforman en nuevos minerales, más estables a esas condiciones físico-químicas, entre los que predominan las arcillas y los óxidos.  La presencia de este tipo de minerales explica la coloración de estas zonas de alteración hidrotermal y la escasa cohesión del material que resulta en la zona de falla. A esto debemos agregar el fuerte desnivel de la ladera del valle y las condiciones climáticas que existen en la alta cordillera. En esta región, en el invierno se forman grandes acumulaciones de nieve, las que son rápidamente derretidas al comenzar el verano con lo cual los materiales de la zona de falla son embebidos de agua, lo que facilita su escurrimiento por la ladera del valle. &#xa;  &#xa;Tenemos, entonces, como la combinación de factores tectónicos, hidrogeológicos, mineralógicos, de pérdida de cohesión de las rocas, orográficos y climáticos configuran las condiciones apropiadas para que se produzca una remoción en masa tan espectacular como la remoción de Las Amarillas. "/>
+      <hotspot skinid="ht_image" id="Point02" url="images/Las_Amarillas_Pano.jpg" tilt="-44.31" title="" pan="-19.2" target="" description="Esta panorámica de la ladera sur del valle del río Volcán muestra una parte de la gran diversidad geológica que existe en este lugar. Esta vista hacia el suroeste mirando hacia el sector de Las Amarillas, denominado así por la espectacular remoción en masa de ese color que descendió desde el filo montañoso ubicado al este del cordón del Cerro Retumbadero, la cumbre más alta de la fotografía, hasta el fondo del valle del río Volcán. En ese punto, pasa la traza de la falla denominada El Diablo que, en la región central de Chile, separa generalmente a rocas mesozoicas, ubicadas al Este de la falla, de rocas cenozoicas, ubicadas al Oeste de ésta. A lo largo de su traza, la falla El Diablo ha causado una fuerte molienda y plegamiento de los estratos adyacentes, y ha permitido el ascenso de soluciones hidrotermales, disminuyendo la cohesión de los materiales a lo largo de la falla, haciéndolos más propensos a ser arrastrados pendiente abajo al estar embebidos con el agua de los deshielos. Deslizamientos de estos materiales son habituales en las primaveras y, frecuentemente, cubren el camino e interrumpen el tráfico de vehículos. &#xa;  &#xa;Hacia el lado Este de la falla, predominan rocas sedimentarias, marinas y continentales, de las formaciones, de más joven a más antiguo, Lo Valdés, Río Damas y Río Colina. Estas formaciones se depositaron en una cuenca de trasarco al Este del arco volcánico contemporáneo que se había desarrollado en lo que hoy es la Cordillera de la Costa. En el desarrollo de esta cuenca de trasarco se reconocen dos etapas de subsidencia en cada una de las cuales se desarrollaron ciclos de transgresión y regresión. La Formación Río Colina, constituida principalmente por yeso, representa el final de las condiciones marinas de la primera regresión. En ese momento, la cuenca había perdido su contacto con el océano y el agua que permanecía en ella encontraba en proceso de evaporación, lo que determinó la abundante precipitación de yeso. La Formación Río Damas, formada por areniscas y conglomerados rojos, pertenece a la etapa durante la que las condiciones eran totalmente continentales y, por lo tanto, oxidantes, de donde proviene su color rojo. Finalmente, la Formación Lo Valdés, marina y abundantemente fosilífera, representa el segundo evento de transgresión en la cuenca. &#xa;  &#xa;Al lado Oeste de la falla, se observan los estratos volcánicos grises del cordón del cerro Retumbadero, asignados a la Formación Abanico, que forman un sinclinal con vergencia al Oeste. Estos se apoyan sobre una sucesión calcárea de unos 100 m de espesor, la que, a su vez se apoya en discordancia de erosión sobre las areniscas rojas cretácicas de la Formación Las Coloradas. A la derecha de la foto y al fondo, se observa capas volcánicas y volcaniclásticas plegadas de la cenozoica Formación Abanico. &#xa;  "/>
+      <hotspot skinid="ht_video_file_mod" id="Point03" url="media/CHACAYES-YESILLO_converted.mp4" tilt="-24.47" title="" pan="-64.42" target="" description=""/>
+      <hotspot skinid="ht_node" id="Point05" url="{node5}" tilt="-59.97" title="Ir a vista Suelo" pan="-213.55" target="" description="Ir a vista suelo"/>
+      <hotspot skinid="ht_video_file_mod" id="Point04" url="media/Foto_Panoramica_Valle_El Morado.mp4" tilt="-10.87" title="" pan="-211.14" target="" description=""/>
+    </hotspots>
+    <media>
+      <lensflare type="1" color="0xffffff" id="Lensflare01" tilt="35.89" blinding="50" alpha="80" pan="-231.41"/>
+    </media>
+    <transition enabled="1" type="diptocolor" zoomspeed="2" zoomoutpause="1" softedge="0" blendtime="0.5" blendcolor="0x000000" zoomout="0" zoomin="0" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" height="1520" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" overlap="1" levelbias="0.400">
+      <level preload="0" height="1520" width="1520" predecode="0"/>
+      <level preload="0" height="760" width="760" predecode="0"/>
+      <level preload="1" height="380" width="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-87" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="80"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata source="" comment="" tags="Fotos 360" customnodeid="" longitude="-70.07183075" title="Las Amarillas Suelo" author="" latitude="-33.83352783" info="" datetime="27-09-20 11:35" description="" copyright=""/>
+    <hotspots height="0" wordwrap="1" width="230">
+      <label enabled="1" borderradius="1" borderalpha="1" height="0" textcolor="0x000000" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" width="230" bordercolor="0x000000" backgroundalpha="1" border="1" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot skinid="ht_node" id="Point02" url="{node4}" tilt="54.44" title="Vista aérea" pan="-352.19" target="" description="Vista aérea"/>
+    </hotspots>
+    <media>
+      <lensflare type="3" color="0xffffff" id="Lensflare01" tilt="48.19" blinding="50" alpha="80" pan="-124"/>
+    </media>
+    <transition enabled="1" type="diptocolor" zoomspeed="2" zoomoutpause="1" softedge="0" blendtime="0.5" blendcolor="0x000000" zoomout="0" zoomin="0" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" height="2870" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" cylinder="1" width="4328" levelbiashidpi="1.000" leveltilesize="510" flat="1" levelingroll="0" overlap="1" levelbias="0.400">
+      <level preload="0" height="2870" width="4328" predecode="0"/>
+      <level preload="0" height="1435" width="2164" predecode="0"/>
+      <level preload="0" height="717" width="1082" predecode="0"/>
+      <level preload="0" height="358" width="541" predecode="0"/>
+      <level preload="1" height="179" width="270" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata source="" comment="" tags="1" customnodeid="" longitude="" title="" author="" latitude="" info="" datetime="" description="" copyright=""/>
+    <hotspots height="0" wordwrap="1" width="230">
+      <label enabled="1" borderradius="1" borderalpha="1" height="0" textcolor="0x000000" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" width="230" bordercolor="0x000000" backgroundalpha="1" border="1" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="diptocolor" zoomspeed="2" zoomoutpause="1" softedge="0" blendtime="0.5" blendcolor="0x000000" zoomout="0" zoomin="0" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" comment="" tags="" customnodeid="" longitude="" title="" author="" latitude="" info="" datetime="" description="" copyright=""/>
+  </masternode>
+  <map type="web" mapstyle="streets" mapmaxzoom="18" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" id="Map01" mapprovider="openstreetmap" title=""/>
+</tour>
